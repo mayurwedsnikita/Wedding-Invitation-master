@@ -352,6 +352,11 @@
 
 body {
 	font-family: Arial, Helvetica, Sans-serif;
+	background-image: url(./assets/img/backdrop3.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
 }
 
 img {
